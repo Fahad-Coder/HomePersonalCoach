@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c58afe3d-9fb1-4e4f-b5f9-c35cde2a602d" name="Default" comment="">
+    <list default="true" id="c58afe3d-9fb1-4e4f-b5f9-c35cde2a602d" name="Default" comment="initiation">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -2006,7 +2006,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519115952465" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519117300098" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2106,7 +2106,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519115952465" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519117300099" />
       </method>
     </configuration>
     <list size="1">
@@ -2152,7 +2152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1519115867400</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initiation">
+      <created>1519116011385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519116011385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initiation">
+      <created>1519117077986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1519117077986</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initiation">
+      <created>1519117294079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519117294079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2196,7 +2217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initiation" />
-    <option name="LAST_COMMIT_MESSAGE" value="initiation" />
+    <MESSAGE value="Initiation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initiation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
