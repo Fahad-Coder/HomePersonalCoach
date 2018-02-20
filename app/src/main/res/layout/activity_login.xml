@@ -41,7 +41,7 @@
         android:layout_marginStart="100dp"
         android:layout_marginTop="12dp"
         android:onClick="Login"
-        android:text="Log-in"
+        android:text="Log in"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText2" />
 
